@@ -1,0 +1,41 @@
+
+.App {
+  text-align: left;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-indent:2cm;
+  margin-top: 2cm;
+  align-items: center;
+  
+}
+
+.searchbar{
+  margin-top: none;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  min-width: 10px;
+}
+
+.custom-dropdown {
+  min-width: 12rem;
+}
+
+
+
+
+.App-header {
+  background-color:#eeeeee8c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgba(255, 255, 255, 0.433);
+}
+

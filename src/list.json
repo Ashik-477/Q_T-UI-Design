@@ -1,0 +1,21 @@
+[
+    {
+        "item":"Home"
+    },
+    {
+        "item":"Details"
+    },
+    {
+        "item":"Category"
+    },
+    {
+        "item":"My Favorites"
+    },
+    {
+        "item":"Profile"
+    },
+    {
+        "item":"Log In/Sign Up"
+    }
+
+]

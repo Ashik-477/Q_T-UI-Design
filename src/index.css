@@ -1,0 +1,55 @@
+.Card{
+    border: 1px solid coral;
+    border-radius: 20px;
+    padding:unset;
+    margin: 20px;
+    background-color:orange;
+    text-align: center;
+    max-width: 2000px;
+}
+.Card .Card-Img{
+       object-position: right;
+       margin-left: auto;
+       margin-bottom: auto
+       
+}
+.Card .text{
+    color: azure;
+    text-align: left;
+    font-size:4vmax;
+}
+
+.Card .Txt{
+    color: azure;
+    text-align: left;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.Footer{
+    border: 1px solid coral;
+    padding:unset;
+    background-color:orange;
+    text-align: center;
+}
+.Footer .foods{
+    object-position: right;
+       margin-left: auto;
+       margin-bottom: auto
+}
+.Footer .pti{
+    color: black;
+    text-align: left;
+    font-size:4vmax;
+
+}
+.Footer .Copy{
+    color: black;
+    text-align: left;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
